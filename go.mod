@@ -1,3 +1,3 @@
-module github.com/mshadev/gotty
+module gotty
 
 go 1.19
